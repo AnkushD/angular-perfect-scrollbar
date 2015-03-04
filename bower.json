@@ -9,7 +9,7 @@
     "scrollbar"
   ],
   "dependencies": {
-    "perfect-scrollbar": "https://github.com/AnkushD/perfect-scrollbar.git",
+    "perfect-scrollbar": "https://github.com/AnkushD/perfect-scrollbar.git#bab53f4a48fc3773c5fc13aeb65693b71079c795",
     "angular": "*"
   },
   "authors": [
